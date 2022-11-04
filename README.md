@@ -1,6 +1,8 @@
- # **Modern Full Stack ECommerce Application with Stripe & Sanity**
+# **Modern Full Stack ECommerce Application with Stripe & Sanity**
+
 ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 
+Modern Full Stack **E-Commerce** Application with ***Stripe*** & ***Sanity***
 ## **This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).**
 
 ## Getting Started
