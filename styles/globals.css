@@ -1,6 +1,6 @@
 ::selection {
-  background: rgb(190, 0, 60);
-  color: #fff;
+  background: rgb(190, 0, 60) !important;
+  color: #fff !important;
 }
 
 html,
